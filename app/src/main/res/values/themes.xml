@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Slothie" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#1B1A17</item>
+        <item name="android:statusBarColor">#1B1A17</item>
+        <item name="android:navigationBarColor">#1B1A17</item>
+    </style>
+</resources>
