@@ -18,6 +18,8 @@ Who gets to be lazier: anyone who has ever opened Digital Wellbeing, stared at a
 |---|---|---|
 | ![Today tab: the sloth, pace against your usual, and the note Gemma wrote](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/today.png) | ![Hours tab: the three risk hours with their odds and the apps behind them](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/hours.png) | ![Apps tab: Gemma sorted the apps into categories, with manual overrides](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/apps.png) |
 
+![A word from Slothie: the note Gemma 4 wrote on the phone, from the numbers above it](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/note.png)
+
 ## Code
 
 **GitHub:** [ShalinaBhargava/slothie](https://github.com/ShalinaBhargava/slothie)
