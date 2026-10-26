@@ -12,13 +12,15 @@ Who gets to be lazier: anyone who has ever opened Digital Wellbeing, stared at a
 
 ## Demo
 
-{% embed DEMO_GIF_URL %}
+![Slothie demo: the Today tab, the sloth waking up, a risk-hour nudge and a one-tap nap](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/demo.gif)
 
-SCREENSHOTS_PLACEHOLDER
+| Today | Hours | Apps |
+|---|---|---|
+| ![Today tab: the sloth, pace against your usual, and the note Gemma wrote](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/today.png) | ![Hours tab: the three risk hours with their odds and the apps behind them](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/hours.png) | ![Apps tab: Gemma sorted the apps into categories, with manual overrides](https://raw.githubusercontent.com/ShalinaBhargava/slothie/main/docs/media/apps.png) |
 
 ## Code
 
-{% embed https://github.com/ShalinaBhargava/slothie %}
+**GitHub:** [ShalinaBhargava/slothie](https://github.com/ShalinaBhargava/slothie)
 
 MIT licensed. Kotlin, Jetpack Compose, no backend, no accounts.
 
@@ -47,7 +49,9 @@ A closed API could have written a nicer paragraph. It could not have done it on 
 
 ## My Agent Session
 
-AGENT_SESSION_PLACEHOLDER
+Slothie was built in one day with Claude Code. The session below is the real transcript: the pivot away from an older project because entries had to be new, the choice of Gemma 4 E2B because its weights are ungated, and the LiteRT-LM wiring.
+
+{% agent_session 1191 %}
 
 ## The Lazy Payoff
 
@@ -59,4 +63,3 @@ Effort saved: the three risk hours and the apps behind them took Android's own l
 
 - Best Use of Gemma
 
-<!-- tags: devchallenge, hf26challenge, android, ai -->
