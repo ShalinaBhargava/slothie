@@ -94,7 +94,7 @@ app/src/main/java/app/slothie/
   ai/SlothBrain.kt       LiteRT-LM engine, model download, streaming
   ai/Prompts.kt          the prompts and the lenient JSON parser for sorting
   nudge/Nudges.kt        risk-hour alarms, notifications, nap (Do Not Disturb)
-  ui/Sloth.kt            the mascot, drawn in Compose Canvas, four moods
+  ui/Sloth.kt            the mascot, one illustration per mood, animated in Compose
   ui/*Screen.kt          Today, Hours, Apps, Settings
 ```
 

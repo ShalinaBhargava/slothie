@@ -6,7 +6,7 @@ Slothie is a sloth that lives in your Android phone. It works out the hours of t
 
 The whole thing is built around one lazy idea: **the phone already knows.** Android keeps a log of which app was in front and when. Slothie reads that log on the device, slices it into a day-by-hour grid, and asks a simple question of each hour: on what share of days did you spend five or more minutes here? Rank by that chance times the usual minutes, skip the neighbours of a stronger hour, and you get your three *risk hours*. Mine turned out to be 7 PM (100% of days, YouTube and WhatsApp), 3 AM (85%, Chrome and YouTube, which was news to me) and 9 PM (83%, Netflix).
 
-The sloth itself is drawn in Compose Canvas and has four moods, driven by your pace against your own usual at this time of day: asleep when you are barely on the phone, chill at your normal pace, one eye open when a risky hour is close, wide awake with a sweat drop when you are well past normal.
+The sloth has four moods, each its own illustration with a little motion added in Compose, driven by your pace against your own usual at this time of day: asleep when you are barely on the phone, chill at your normal pace, one eye open when a risky hour is close, wide awake with a sweat drop when you are well past normal.
 
 Who gets to be lazier: anyone who has ever opened Digital Wellbeing, stared at a bar chart, and closed it. Slothie turns the chart into a sentence, a time, and a button.
 
